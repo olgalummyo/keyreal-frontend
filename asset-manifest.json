@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keyreal-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/keyreal-frontend/static/js/main.d8e35ba0.js",
+    "static/js/453.c15fad19.chunk.js": "/keyreal-frontend/static/js/453.c15fad19.chunk.js",
+    "index.html": "/keyreal-frontend/index.html",
+    "main.e6c13ad2.css.map": "/keyreal-frontend/static/css/main.e6c13ad2.css.map",
+    "main.d8e35ba0.js.map": "/keyreal-frontend/static/js/main.d8e35ba0.js.map",
+    "453.c15fad19.chunk.js.map": "/keyreal-frontend/static/js/453.c15fad19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d8e35ba0.js"
+  ]
+}
